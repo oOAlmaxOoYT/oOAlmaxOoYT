@@ -41,8 +41,7 @@
 - [No Videos](#)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/channel/UCM6JwZxdcUuHJpDZ_CzaTtw/videos)
-
+➡️ [more videos...](https://youtube.com/channel/@oOAlmaxOo/videos)
 ---
 
 
@@ -53,4 +52,4 @@
 
 </details>
 
-[youtube]: https://youtube.com/UCM6JwZxdcUuHJpDZ_CzaTtw
+[youtube]: https://youtube.com/@oOAlmaxOo/
