@@ -4,9 +4,9 @@
 
 
 
-## I'm a Developer and YouTuber
+## I'm a Developer ~~and YouTuber~~
 
-- 🤖 I’m a Developer and YouTuber
+- 🤖 I’m a Developer ~~and YouTuber~~
 - ⛅ More Soon
 
 ### Connect with me:
