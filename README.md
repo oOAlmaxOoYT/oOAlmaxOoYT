@@ -12,10 +12,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://youtube.com/@oOAlmaxOo/)
-[![website](./img/globe-dark.svg)](https://youtube.com/@oOAlmaxOo/)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/@oOAlmaxOo/)
-[![website](./img/youtube-dark.svg)](https://youtube.com/@oOAlmaxOo/)
+[![website](./img/globe-light.svg)](https://youtube.com/@oOAlmaxOo/)
 
 ### Languages and Tools:
 
