@@ -30,16 +30,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [No Videos](#)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/channel/@oOAlmaxOo/videos)
----
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
