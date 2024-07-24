@@ -1,17 +1,4 @@
-# Hi there, I'm Almax - aka [oOAlmaxOoYT][youtube] 👋 
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCM6JwZxdcUuHJpDZ_CzaTtw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-
-
-
-## I'm a Developer ~~and YouTuber~~
-
-- 🤖 I’m a Developer ~~and YouTuber~~
-- ⛅ More Soon
-
-### Connect with me:
-
-[![website](./img/globe-dark.svg)](https://youtube.com/@oOAlmaxOo/)
+# Hi there, I'm Almax - aka oOAlmaxOoYT 👋 
 
 ### Languages and Tools:
 
@@ -31,9 +18,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  
   <img align="left" alt="oOAlmaxOoYT's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oOAlmaxOoYT&show_icons=true&hide_border=false&title_color=1190FC&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </details>
-
-[youtube]: https://youtube.com/@oOAlmaxOo/
